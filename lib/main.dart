@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:signin_example/splashscreen.dart';
 
 void main() => runApp(SignUpApp());
 
